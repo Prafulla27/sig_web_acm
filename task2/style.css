@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    background-image: url("acmlogo.png");
+    font-size: large;
+    margin: 5px;
+    float: left;
+    
+}
+
+h1{
+    text-align: center;
+}
